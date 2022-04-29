@@ -4,7 +4,7 @@
 <h1 align="center">Zenoxys</h1>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ariffb25/stikerinbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zenoxysjvsc/zenoxys)
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GVwpKf83s42D1CnIfDW19G)
 
@@ -16,7 +16,7 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Zyhkss/Zenoxys
+git clone https://github.com/zenoxysjvsc/zenoxys
 cd Zenoxys
 npm i
 npm update
@@ -121,5 +121,5 @@ conn.logger.level = 'debug'
 
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Zyhkss](https://github.com/Zyhkss.png?size=100)](https://github.com/Zyhkss) 
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Zyhkss](https://github.com/Zyhkss)
- Penulis / Pencipta | Penulis ulang | Recode 
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [zenoxysjvsc](https://github.com/zenoxysjvsc)
+ Penulis / Pencipta | Merapihkan Script | Owner 
